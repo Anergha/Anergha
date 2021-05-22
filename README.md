@@ -8,7 +8,7 @@
 
 - 🌱 A self driven passionate Software Engineer,pursued bachelor's degree in Computer Science and Engineering
 
-- 🏢 I’m currently working as System Engineer at IBM
+- 🏢 I’m currently working at IBM
 
 - 👨‍💻All of my projects are available at [github](https://github.com/Anergha?tab=repositories)
  
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anerghaa@gmail.com**
 
-- ⚡ Fun fact: I'm a culinary Artist
+- ⚡ Fun fact: A culinary Artist
 
 ### 🛠 &nbsp;Languages and Tools
 
