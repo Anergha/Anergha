@@ -44,7 +44,8 @@
 <a href="https://github.com/Anergha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anergha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anergha&layout=compact&langs_count=5&theme=algolia"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anergha&theme=radical&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)	
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anergha&theme=radical&hide=jupyter_notebook"(https://github.com/anuraghazra/github-readme-stats)/>
+
 	
 </a>
 </p>
