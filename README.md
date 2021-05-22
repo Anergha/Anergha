@@ -10,11 +10,11 @@
 
 - 🏢 I’m currently working at IBM
 
-- 👨‍💻All of my projects are available at [github](https://github.com/Anergha?tab=repositories)
+- 👩 💻 All of my projects are available at [github](https://github.com/Anergha?tab=repositories)
  
 - 💬 Ask me about **DataScience,Machine learning and data analytics**
 
-- 📫 How to reach me **anerghaa@gmail.com**
+- 📫 Reach me :**anerghaa@gmail.com**
 
 - ⚡ Fun fact: A culinary Artist
 
