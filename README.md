@@ -9,9 +9,9 @@
 - 👨‍💻I’m currently working as System Engineer at IBM
 
 - 🌱 All of my projects are available at [github](https://github.com/Anergha?tab=repositories)
-- 
+ 
 -  👨‍💻I'm a self driven passionate Software Engineer . I had pursued my bachelor's degree in Computer Science and Engineering.
--  
+
 - 💬 Ask me about **DataScience,Machine learning and data analytics**
 - 
 - 📫 How to reach me **anerghaa@gmail.com**
@@ -44,7 +44,7 @@
 <a href="https://github.com/Anergha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anergha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anergha&layout=compact&langs_count=5&theme=algolia"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-naik07&theme=radical&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anergha&theme=radical&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)	
 	
 </a>
 </p>
