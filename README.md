@@ -57,7 +57,7 @@
 <a href="https://www.linkedin.com/in/anergha-k-m-176756117/"><img src="https://img.shields.io/badge/-Anergha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anerghaa@gmail.com"><img src="https://img.shields.io/badge/-anerghaa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/AnerghaaKm"><img src="https://img.shields.io/badge/-@Anergha-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/anergha_k_m"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/anergha_k_m"><img src="https://img.shields.io/badge/-anergha_k_m-fb3958?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anergha&" alt="Anergha" /></p> -->
