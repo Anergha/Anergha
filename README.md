@@ -6,12 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=Anergha&color=blueviolet&style=flat">
 </p>
 
-- 👨‍💻I’m currently working as System Engineer at IBM
+- 👨‍💻I’m currently working as System Engineer at IBM,a self driven passionate Software Engineer,pursued bachelor's degree in Computer Science and Engineering
 
 - 🌱 All of my projects are available at [github](https://github.com/Anergha?tab=repositories)
  
--  👨‍💻I'm a self driven passionate Software Engineer . I had pursued my bachelor's degree in Computer Science and Engineering.
-
 - 💬 Ask me about **DataScience,Machine learning and data analytics**
 
 - 📫 How to reach me **anerghaa@gmail.com**
@@ -59,6 +57,6 @@
 <a href="mailto:anerghaa@gmail.com"><img src="https://img.shields.io/badge/-anerghaa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/AnerghaaKm"><img src="https://img.shields.io/badge/-@Anergha-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/anergha_k_m"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-	
+
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anergha&" alt="Anergha" /></p> -->
