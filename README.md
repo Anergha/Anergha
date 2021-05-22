@@ -36,20 +36,8 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-### ⚡ Tech Stack i am familiar with
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anergha&theme=radical&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
-[![My Stats!](https://github-readme-stats.vercel.app/api?username=Anergha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -70,5 +58,7 @@
 <a href="https://www.linkedin.com/in/anergha-k-m-176756117/"><img src="https://img.shields.io/badge/-Anergha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anerghaa@gmail.com"><img src="https://img.shields.io/badge/-anerghaa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/AnerghaaKm"><img src="https://img.shields.io/badge/-@Anergha-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/anergha_k_m"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+	
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anergha&" alt="Anergha" /></p> -->
