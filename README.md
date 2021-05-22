@@ -1,17 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Anergha</h1>
+<h1 align="center">Hi There 👋, I'm Anergha</h1>
 <h3 align="center">An aspiring Datascientist</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anergha&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently working as System Engineer at IBM
+- 👨‍💻I’m currently working as System Engineer at IBM
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Anergha?tab=repositories)
-
-- 💬 Ask me about **Datascience**
-
+- 🌱 All of my projects are available at [github](https://github.com/Anergha?tab=repositories)
+- 
+-  👨‍💻I'm a self driven passionate Software Engineer . I had pursued my bachelor's degree in Computer Science and Engineering.
+-  
+- 💬 Ask me about **DataScience,Machine learning and data analytics**
+- 
 - 📫 How to reach me **anerghaa@gmail.com**
 
 
@@ -34,12 +36,16 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Anergha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anergha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anergha&layout=compact&langs_count=5&theme=algolia"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-naik07&theme=radical&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)	
+	
 </a>
 </p>
 
