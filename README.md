@@ -6,13 +6,17 @@
   <img src="https://komarev.com/ghpvc/?username=Anergha&color=blueviolet&style=flat">
 </p>
 
-- 👨‍💻I’m currently working as System Engineer at IBM,a self driven passionate Software Engineer,pursued bachelor's degree in Computer Science and Engineering
+- 🌱 A self driven passionate Software Engineer,pursued bachelor's degree in Computer Science and Engineering
 
-- 🌱 All of my projects are available at [github](https://github.com/Anergha?tab=repositories)
+- 🏢 I’m currently working as System Engineer at IBM
+
+- 👨‍💻All of my projects are available at [github](https://github.com/Anergha?tab=repositories)
  
 - 💬 Ask me about **DataScience,Machine learning and data analytics**
 
 - 📫 How to reach me **anerghaa@gmail.com**
+
+- ⚡ Fun fact: I'm a culinary Artist
 
 
 	
